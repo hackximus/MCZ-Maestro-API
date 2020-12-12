@@ -21,7 +21,7 @@ The only thing that should be noted is that two network interfaces should be ava
 First you can use Swagger to test the API. 
 > https://localhost:port/swagger/index.html
 
-To send a command to the furnace, an HTTP PUT request can be sent. Here is an example of changing the setpoint to 23°C. 
+To send a command to the heater, an HTTP PUT request can be sent. Here is an example of changing the setpoint to 23°C. 
 > https://localhost:port/api/Maestro/42?value=23
 
 The number 42 is the ID. You can get all the ID's with an HTTP GET request.
