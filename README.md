@@ -33,6 +33,8 @@ A good instruction to Setup .NET Core 3.0 Runtime and SDK on Raspberry Pi 4
 
 > https://edi.wang/post/2019/9/29/setup-net-core-30-runtime-and-sdk-on-raspberry-pi-4
 
+## Disclaimer
+I do not take any responsability! 
 
 ## Last words
 I'm so sorry for my english and this is my first readme on github. Have mercy on me :innocent:
